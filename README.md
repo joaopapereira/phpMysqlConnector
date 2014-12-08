@@ -1,0 +1,4 @@
+phpMysqlConnector
+=================
+
+Mysql Connection objects
